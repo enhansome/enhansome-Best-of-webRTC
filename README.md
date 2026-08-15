@@ -120,11 +120,11 @@
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/vasanthv/hello">Hello</a></td>
+    <td><a href="https://github.com/vasanthv/ahey">Ahey</a></td>
     <td></td>
     <td>
-      <a href="https://github.com/vasanthv/hello/stargazers">
-         <img src="https://img.shields.io/github/stars/vasanthv/hello?style=plastic">
+      <a href="https://github.com/vasanthv/ahey/stargazers">
+         <img src="https://img.shields.io/github/stars/vasanthv/ahey?style=plastic">
       </a>
     </td>
   </tr>
@@ -562,4 +562,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
