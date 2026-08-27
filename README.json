@@ -1,9 +1,16 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-26T16:02:28.057Z",
-    "original_repository": "webRTCv1/Best-of-webRTC",
-    "original_repository_id": 484131523,
+    "last_updated": "2026-08-27T11:26:55.901Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 484131523,
+      "language": null,
+      "last_commit": "2026-08-15T13:24:45Z",
+      "owner": "webRTCv1",
+      "repo": "Best-of-webRTC",
+      "stars": 151
+    },
     "original_repository_sha": "8b147dc6739bd96124add0bce1fa122459275561",
     "enhanced_repository": "enhansome/enhansome-Best-of-webRTC",
     "enhanced_repository_description": null,
