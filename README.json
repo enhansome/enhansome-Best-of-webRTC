@@ -1,15 +1,41 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-28T23:38:51.187Z",
+    "last_updated": "2026-08-29T04:53:57.856Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Best of WebRTC: Elevate with Top Projects! ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  ",
+      "homepage": "https://github.com/webRTCv1/best-of-webRTC",
       "id": 484131523,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-08-15T13:24:45Z",
+      "open_issues": 0,
       "owner": "webRTCv1",
       "repo": "Best-of-webRTC",
-      "stars": 151
+      "stars": 151,
+      "topics": [
+        "audio-streaming",
+        "awesome",
+        "awesome-list",
+        "best-of-webrtc",
+        "bigbluebutton",
+        "chat",
+        "conference",
+        "conference-talk",
+        "google-meet-clone",
+        "jitsi-meet",
+        "mediaserver",
+        "mediasoup",
+        "p2p",
+        "self-hosted",
+        "sfu",
+        "streaming",
+        "video-streaming",
+        "videoconference",
+        "webrtc",
+        "zoom-clone"
+      ]
     },
     "original_repository_sha": "8b147dc6739bd96124add0bce1fa122459275561",
     "enhanced_repository": "enhansome/enhansome-Best-of-webRTC",
