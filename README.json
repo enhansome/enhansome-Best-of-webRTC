@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-29T17:51:07.358Z",
+    "last_updated": "2026-08-30T18:10:13.250Z",
     "original_repository_info": {
       "archived": false,
       "description": "Best of WebRTC: Elevate with Top Projects! ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  ",
@@ -9,7 +9,7 @@
       "id": 484131523,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-08-15T13:24:45Z",
+      "last_commit": "2026-08-30T12:18:11Z",
       "open_issues": 0,
       "owner": "webRTCv1",
       "repo": "Best-of-webRTC",
@@ -37,7 +37,7 @@
         "zoom-clone"
       ]
     },
-    "original_repository_sha": "8b147dc6739bd96124add0bce1fa122459275561",
+    "original_repository_sha": "16d72f8089ace66aa4803a97a360762f5db0ba11",
     "enhanced_repository": "enhansome/enhansome-Best-of-webRTC",
     "enhanced_repository_description": null,
     "title": "Awesome Best of webRTC with stars"

@@ -75,6 +75,15 @@
     <th>Stars</th>
   </tr>
   <tr>
+    <td><a href="https://github.com/vasanthv/ahey">Ahey</a></td>
+    <td></td>
+    <td>
+      <a href="https://github.com/vasanthv/ahey/stargazers">
+         <img src="https://img.shields.io/github/stars/vasanthv/ahey?style=plastic">
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/holtwick/briefing/">Briefing</a></td>
     <td><a href="https://brie.fi/ng">🌐</a></td>
     <td>
@@ -120,11 +129,11 @@
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/vasanthv/ahey">Ahey</a></td>
-    <td></td>
+    <td><a href="https://github.com/suitenumerique/meet">Meet</a></td>
+    <td><a href="https://lasuite.numerique.gouv.fr/produits/visio">🌐</a></td>
     <td>
-      <a href="https://github.com/vasanthv/ahey/stargazers">
-         <img src="https://img.shields.io/github/stars/vasanthv/ahey?style=plastic">
+      <a href="https://github.com/suitenumerique/meet/stargazers">
+         <img src="https://img.shields.io/github/stars/suitenumerique/meet?style=plastic">
       </a>
     </td>
   </tr>
@@ -562,4 +571,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
