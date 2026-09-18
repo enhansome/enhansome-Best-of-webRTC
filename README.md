@@ -218,6 +218,15 @@
       </a>
     </td>
   </tr>
+ <tr>
+    <td><a href="https://github.com/ErwannRobin/Voxal">Voxal</a></td>
+    <td><a href="https://web.voxal.app/">🌐</a></td>
+    <td>
+      <a href="https://github.com/ErwannRobin/Voxal/stargazers">
+         <img src="https://img.shields.io/github/stars/ErwannRobin/Voxal?style=plastic">
+      </a>
+    </td>
+  </tr>
 </table>
 </div>
 </details>
@@ -571,4 +580,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
