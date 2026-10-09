@@ -156,6 +156,15 @@
     </td>
   </tr>
   <tr>
+    <td><a href="https://github.com/miroslavpejic85/mirotalkrnd">MiroTalk RND</a></td>
+    <td><a href="https://rnd.mirotalk.com">🌐</a></td>
+    <td>
+      <a href="https://github.com/miroslavpejic85/mirotalkrnd/stargazers">
+         <img src="https://img.shields.io/github/stars/miroslavpejic85/mirotalkrnd?style=plastic">
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/miroslavpejic85/mirotalkwebrtc">MiroTalk WEB</a></td>
     <td><a href="https://webrtc.mirotalk.com">🌐</a></td>
     <td>
@@ -580,4 +589,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
